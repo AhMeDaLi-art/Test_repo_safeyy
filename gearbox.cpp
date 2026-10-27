@@ -21,7 +21,7 @@ private :
     float Torque;
     float speed;
     float Mass;
-    float Diameter;
+    float d;
     float Width;
     float cost;
 public :
